@@ -90,6 +90,7 @@ Turtle Hub supported games :
 88. Blox Hunt
 89. Evolution Simulator
 90. Energy Drink Simulator
+91. Claw Machine Simulator
 
 newest games will be listed soon
 
