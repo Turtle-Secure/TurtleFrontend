@@ -91,8 +91,14 @@ Turtle Hub supported games :
 89. Evolution Simulator
 90. Energy Drink Simulator
 91. Claw Machine Simulator
+92. World Zero
+93. Peta Peta
+94. Peta Peta: School Of Nightmares
+95. Dress To Impress
+96. Keys
+97. Rivals
 
 newest games will be listed soon
 
 Added README.md since : 30 October, 2025
-Updated README.md since : 30 October, 2025
+Updated README.md since : 31 October, 2025
