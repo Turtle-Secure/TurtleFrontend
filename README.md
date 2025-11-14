@@ -98,6 +98,7 @@ Turtle Hub supported games :
 96. Keys
 97. Rivals
 98. Ants Empire [ W.I.P but u can test it. ]
+99. Pixel Blade
 
 newest games will be listed soon
 
