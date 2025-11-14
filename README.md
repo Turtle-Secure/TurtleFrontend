@@ -97,8 +97,9 @@ Turtle Hub supported games :
 95. Dress To Impress
 96. Keys
 97. Rivals
+98. Ants Empire [ W.I.P but u can test it. ]
 
 newest games will be listed soon
 
 Added README.md since : 30 October, 2025
-Updated README.md since : 31 October, 2025
+Updated README.md since : 14 November, 2025
