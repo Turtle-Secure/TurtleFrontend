@@ -99,6 +99,8 @@ Turtle Hub supported games :
 97. Rivals
 98. Ants Empire [ W.I.P but u can test it. ]
 99. Pixel Blade
+100. No Cooldown Doomspire Brickbattle
+101. Snowball Battles
 
 newest games will be listed soon
 
