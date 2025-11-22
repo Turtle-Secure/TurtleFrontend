@@ -101,6 +101,9 @@ Turtle Hub supported games :
 99. Pixel Blade
 100. No Cooldown Doomspire Brickbattle
 101. Snowball Battles
+102. Entrenched WW1
+103. Catch A Monster
+104. Shot A Brainrots
 
 newest games will be listed soon
 
