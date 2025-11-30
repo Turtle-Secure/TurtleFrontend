@@ -104,8 +104,9 @@ Turtle Hub supported games :
 102. Entrenched WW1
 103. Catch A Monster
 104. Shot A Brainrots
+105. The Lost Front
 
 newest games will be listed soon
 
 Added README.md since : 30 October, 2025
-Updated README.md since : 14 November, 2025
+Updated README.md since : 01 December, 2025
