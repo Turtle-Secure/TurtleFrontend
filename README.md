@@ -105,6 +105,11 @@ Turtle Hub supported games :
 103. Catch A Monster
 104. Shot A Brainrots
 105. The Lost Front
+106. Arsenal
+107. Bad Bussiness
+108. Fish It
+109. Go Fishing [ Special collab with Speed Hub X ]
+110. Fisch
 
 newest games will be listed soon
 
