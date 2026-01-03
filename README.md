@@ -108,10 +108,11 @@ Turtle Hub supported games :
 106. Arsenal
 107. Bad Bussiness
 108. Fish It
-109. Go Fishing [ Special collab with Speed Hub X ]
+109. Go Fishing
 110. Fisch
+111. Pickaxe Simulator
 
 newest games will be listed soon
 
 Added README.md since : 30 October, 2025
-Updated README.md since : 29 December, 2025
+Updated README.md since : 04 January, 2026
