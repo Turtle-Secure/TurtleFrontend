@@ -111,6 +111,7 @@ Turtle Hub supported games :
 109. Go Fishing
 110. Fisch
 111. Pickaxe Simulator
+112. Survive The Killer
 
 newest games will be listed soon
 
