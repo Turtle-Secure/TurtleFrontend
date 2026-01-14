@@ -112,6 +112,8 @@ Turtle Hub supported games :
 110. Fisch
 111. Pickaxe Simulator
 112. Survive The Killer
+113. The Forge (Beta)
+114. Chop Your Tree
 
 newest games will be listed soon
 
