@@ -114,8 +114,10 @@ Turtle Hub supported games :
 112. Survive The Killer
 113. The Forge (Beta)
 114. Chop Your Tree
+115. FNAF: Eternal Nights
+116. Tap Simulator
 
 newest games will be listed soon
 
 Added README.md since : 30 October, 2025
-Updated README.md since : 14 January, 2026
+Updated README.md since : 30 January, 2026
