@@ -120,5 +120,5 @@ Turtle Hub supported games :
 
 newest games will be listed soon
 
-Added README.md since : 30 October, 2025
-Updated README.md since : 30 January, 2026
+Added README.md since : 30th October, 2025
+Updated README.md since : 04th February, 2026
