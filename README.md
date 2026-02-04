@@ -116,6 +116,7 @@ Turtle Hub supported games :
 114. Chop Your Tree
 115. FNAF: Eternal Nights
 116. Tap Simulator
+117. Solo Hunters (PUBLIC TEST)
 
 newest games will be listed soon
 
