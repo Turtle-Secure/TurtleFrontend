@@ -117,6 +117,8 @@ Turtle Hub supported games :
 115. FNAF: Eternal Nights
 116. Tap Simulator
 117. Solo Hunters (PUBLIC TEST)
+118. [FPS] Flick
+119. Gun Grounds FFA
 
 newest games will be listed soon
 
