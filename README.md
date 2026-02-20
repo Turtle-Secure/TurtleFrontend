@@ -119,8 +119,9 @@ Turtle Hub supported games :
 117. Solo Hunters (PUBLIC TEST)
 118. [FPS] Flick
 119. Gun Grounds FFA
+120. Abyss [BETA]
 
 newest games will be listed soon
 
 Added README.md since : 30th October, 2025
-Updated README.md since : 18th February, 2026
+Updated README.md since : 20th February, 2026
